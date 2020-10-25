@@ -16,6 +16,7 @@
 - 딥러닝과 머신러닝에 대한 지식  
 - Tensorflow (https://github.com/sanspareilsmyn/tf-basic-code)  
 - Scikit-Learn  
+- OpenCV
 - 최상급 영어/프랑스어 회화 및 문서 작성 능력 (국제기구 인턴 경험)  
 - 논문을 통한 지식 습득 & 핵심 내용을 나의 언어로 정리하는 능력 (https://github.com/sanspareilsmyn/what-i-have-read)  
 - 컴퓨터공학 전반에 대한 지식 (https://github.com/sanspareilsmyn/tech-interview-question)  
