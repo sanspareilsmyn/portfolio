@@ -42,7 +42,7 @@
 ### 3. Data Acquisition and Processing Algorithm of Embedded Vision Sensor (https://github.com/sanspareilsmyn/samsung-summer-project)  
 
 삼성전자 학부 연구장학생 여름 프로젝트입니다.  
-입사 전 영상처리의 기본 내용과와 기본적인 머신러닝 테크닉에 대해 공부해보면 좋겠다는 멘토님의 의견을 수렴해 주제를 정했습니다.  
+입사 전 영상처리의 기본 내용과 기본적인 머신러닝 테크닉에 대해 공부해보면 좋겠다는 멘토님의 의견을 수렴해 주제를 정했습니다.  
 차영상을 통해 물체의 움직임을 감지하는 알고리즘을 OpenCV로 구현한 뒤, 물체가 움직인 것으로 추측되는 영역에 대해 Histogram of Gradient(HoG)를 Feature로 추출했습니다.   
 이를 Multi-class SVM을 통해 Object Classification을 구현해보는 굉장히 클래식한 Machine Learning 프로젝트였습니다.  
 ![5](https://user-images.githubusercontent.com/52681837/93693501-84ed2e00-fb3b-11ea-9a26-87d73f8b742b.JPG)  
