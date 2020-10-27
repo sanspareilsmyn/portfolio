@@ -23,6 +23,7 @@
 
 ## 저는 이런 것들을 만들어 보았습니다.
 ### 1. News Title Autocompletion and Transformer-based News Summarization (https://github.com/sanspareilsmyn/news-project)  
+*** 현재 개발 중인 프로젝트입니다!***  
 
 "뉴스 서비스를 사용하는 유저들이 어떻게 하면 자신이 원하는 뉴스를 더 빠르게 볼 수 있을까?"라는 고민에서 시작된 프로젝트입니다.   
 퇴근하고 NLP를 혼자 공부하던 차에 공부한 것을 실생활과 밀접한 주제에 응용해보기 위해 이러한 주제를 골랐습니다.   
