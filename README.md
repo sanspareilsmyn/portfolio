@@ -21,6 +21,20 @@
 - 논문을 통한 지식 습득 & 핵심 내용을 나의 언어로 정리하는 능력 (https://github.com/sanspareilsmyn/what-i-have-read)  
 - 컴퓨터공학 전반에 대한 지식 (https://github.com/sanspareilsmyn/tech-interview-question)  
 
+## 저는 회사에서 이런 것들을 만들고 있습니다.    
+### 1. Embedded-AI 기반의 수지 도포 Vision 검사 모듈  
+입사 후 처음으로 투입된 프로젝트였으며, 무선사업부 제조라인 공정 중 한 부분인 수지 도포 노즐의 맺힘 방지를 위한 Vision 검사 모듈을 개발하는 일에 참여하고 있습니다.  
+클래식한 머신러닝 기반의 검사기 모듈을 설계하는 비교적 난이도 낮은 프로젝트여서 입사 후 첫 프로젝트로 참여하였고,  
+사수님의 지도 하에 라즈베리파이 위에서 돌아가는 Scikit-learn, OpenCV 기반의 도포 노즐 맺힘 Classification 모듈을 직접 설계하고 코드를 짰습니다.  
+좋은 성능을 내기 위해 꼭 필용한 광학계 선정, 지그 제작, 이미지 가공 등을 해보며, 전처리부터 튜닝까지 End-to-End를 실행해볼 수 있는 프로젝트였습니다.  
+
+### 2. 미주향/유럽향 부품 혼입 Vision 검사 모듈
+안테나 모양에 따라 달라지는 제품 중 라인 상에서 부품 혼입이 일어났는지 Object Detection 기반의 검사기로 체크하는 검사 모듈 개발 프로젝트에 참여하고 있습니다.  
+저는 OpenCV 기반의 이미지 전처리 테스트 및 알맞은 광학계 검토를 하는 역할을 맡음과 동시에,  
+딥러닝 기반의 Object Detection 모듈을 어떻게 개발하면 좋을지 멘토님께 발표하고 피드백을 받고 있습니다.  
+Detection 모듈 개발은 난이도가 있기에 아직 제가 주도적으로 개발하지 않고 앞 단의 이미지 서빙 작업을 하면서,  
+"만약 나라면 어떻게 문제를 풀었을까?"를 논문을 읽고 프로토타입을 만들어 보며 피드백을 받는 시간을 가지고 있습니다.  
+
 ## 저는 이런 것들을 만들어 보았습니다.
 ### 1. News Title Autocompletion and Transformer-based News Summarization (https://github.com/sanspareilsmyn/news-project)  
 *** 현재 개발 중인 프로젝트입니다!***  
