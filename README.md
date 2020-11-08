@@ -46,7 +46,16 @@ Detection 모듈 개발은 난이도가 있기에 아직 제가 주도적으로 
 둘째, 후보 기사들의 본문을 Transformer 기반의 알고리즘으로 요약해서 완성된 제목과 함께 보여주는 기능  
 <img width="499" alt="스크린샷 2020-10-24 오후 6 40 25" src="https://user-images.githubusercontent.com/52681837/97078646-7d341400-1628-11eb-87c3-394c8bb7f616.png">  
 
-### 2. Friends Recommendation System with Star Wars Social Network (https://github.com/sanspareilsmyn/kaggle-starwars)  
+### 2. Income Prediction with Second-Level Learning Model and Stacking (https://www.kaggle.com/sangminyoon/stacking-second-level-learning-model)  
+
+Stacking을 이용한 Second-Level Prediction Model을 구현하였습니다.  
+First-level Classifier로 사용한 5개의 모델(DecisionTree, RandomForest, ExtraTrees, AdaBoost, GradientBoostingMachine)에서
+결과값을 추출해낸 뒤 이를 다시 Second-level Classifier인 XGBoost에 넣어주는 방식입니다.  
+Baseline을 구현한 뒤 Parameter Tuning과 Feature Enginnering을 통해 성능 향상을 시도하였습니다.
+![image](https://user-images.githubusercontent.com/52681837/98456040-b7222000-21bb-11eb-85bb-49e433ced91f.png)
+
+
+### 3. Friends Recommendation System with Star Wars Social Network (https://github.com/sanspareilsmyn/kaggle-starwars)  
 
 [Node2Vec](https://arxiv.org/abs/1607.00653)이라는 멋있는 페이퍼를 읽고 영감을 받아서 만들어 본 프로젝트입니다.  
 그래프 형태의 데이터로부터 Feature Vector를 추출하는 이 알고리즘을 스타워즈 대본에 적용해보았습니다.  
@@ -55,7 +64,7 @@ Detection 모듈 개발은 난이도가 있기에 아직 제가 주도적으로 
 최종적인 결과물은 추출한 특성 벡터의 L2-Norm 연산을 통해 가장 가까운 인물 5인을 추려내는 것입니다.  
 <img width="495" alt="스크린샷 2020-10-13 오후 8 22 55" src="https://user-images.githubusercontent.com/52681837/95854527-0da16780-0d92-11eb-980f-9c09e5a4ac2d.png">  
 
-### 3. Data Acquisition and Processing Algorithm of Embedded Vision Sensor (https://github.com/sanspareilsmyn/samsung-summer-project)  
+### 4. Data Acquisition and Processing Algorithm of Embedded Vision Sensor (https://github.com/sanspareilsmyn/samsung-summer-project)  
 
 삼성전자 학부 연구장학생 여름 프로젝트입니다.  
 입사 전 영상처리의 기본 내용과 기본적인 머신러닝 테크닉에 대해 공부해보면 좋겠다는 멘토님의 의견을 수렴해 주제를 정했습니다.  
@@ -63,7 +72,7 @@ Detection 모듈 개발은 난이도가 있기에 아직 제가 주도적으로 
 이를 Multi-class SVM을 통해 Object Classification을 구현해보는 굉장히 클래식한 Machine Learning 프로젝트였습니다.  
 ![5](https://user-images.githubusercontent.com/52681837/93693501-84ed2e00-fb3b-11ea-9a26-87d73f8b742b.JPG)  
 
-### 4. Implementation of Deep-Learning-Based Active User Detection(AUD) Layer (https://github.com/sanspareilsmyn/lab-intern-project)  
+### 5. Implementation of Deep-Learning-Based Active User Detection(AUD) Layer (https://github.com/sanspareilsmyn/lab-intern-project)  
 
 서울대학교 이동통신연구실에서 이광복 교수님의 지도 하에 학부 4학년 때 학부연구생을 수행하며 만들어 본 결과물입니다.  
 Autoencoder를 응용한 Active User Detection(AUD) Layer를 만드는 것을 목적으로 했습니다.  
