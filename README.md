@@ -12,7 +12,8 @@
 내 이름을 걸어도 부끄럽지 않은 멋진 것을 만드는 데 모든 것을 바치자.   
 
 ## 저는 이런 것들을 잘 할 수 있습니다.      
-- Python(주력 언어), Java(https://github.com/sanspareilsmyn/java-study), Matlab(기초전자기학 및 연습 실습 조교)   
+- Python(주력 언어, 삼성 SW 검정시험 Advanced 등급 취득할 때 사용한 언어)  
+- C++(삼성 SW 검정시험 Professional 등급 취득할 때 사용한 언어)  
 - 딥러닝과 머신러닝에 대한 지식  
 - Tensorflow (https://github.com/sanspareilsmyn/tf-basic-code)  
 - Scikit-Learn  
