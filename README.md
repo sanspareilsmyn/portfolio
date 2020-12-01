@@ -8,12 +8,9 @@
 제가 속한 센서 파트에서는 기계공학 엔지니어, 전기/컴퓨터공학 엔지니어, 화학공학 엔지니어들이 힘을 합쳐 멋진 것들을 만듭니다.   
 특히 Vision을 담당하는 제 소파트는 제조 라인에서 작업자가 수행하는 Object Detection 및 Classification 작업을 대체하는 검사 모듈을 개발하고 있습니다.  
 
-## 엔지니어로서의 좌우명  
-내 이름을 걸어도 부끄럽지 않은 멋진 것을 만드는 데 모든 것을 바치자.   
-
 ## 저는 이런 것들을 잘 할 수 있습니다.      
-- Python(주력 언어, 삼성 SW 검정시험 Advanced 등급 취득할 때 사용한 언어)  
-- C++(삼성 SW 검정시험 Professional 등급 취득할 때 사용한 언어)  
+- Python  
+- C++  
 - 딥러닝과 머신러닝에 대한 지식  
 - Tensorflow (https://github.com/sanspareilsmyn/tf-basic-code)  
 - Scikit-Learn  
