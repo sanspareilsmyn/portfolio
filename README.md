@@ -11,7 +11,7 @@
 ## 저는 이런 것들을 잘 할 수 있습니다.      
 - Python, JavaScript, Go     
 - Hands-on Knowledge on ML/DL  
-- Tensorflow, PyTorch  
+- PyTorch (Intermediate Tensorflow)    
 - Tools for Machine Learning : Pandas, Numpy, Scikit-Learn, OpenCV  
 - Tools for Data Visualization : Seaborn, Plotly  
 - AWS Solutions Architect Associate  
@@ -32,6 +32,11 @@
 딥러닝 기반의 Object Detection 모듈을 어떻게 개발하면 좋을지 멘토님께 발표하고 피드백을 받고 있습니다.  
 Detection 모듈 개발은 난이도가 있기에 아직 제가 주도적으로 개발하지 않고 앞 단의 이미지 서빙 작업을 하면서,  
 "만약 나라면 어떻게 문제를 풀었을까?"를 논문을 읽고 프로토타입을 만들어 보며 피드백을 받는 시간을 가지고 있습니다.  
+
+### 3. 딥러닝 기반의 Virtual Golden Sample 생성 모듈  
+딥러닝 기반의 Virtual Golden Sample을 생성하는 프로젝트 개발에 참여하고 있습니다.  
+Virtual Golden Sample은 물리적으로 시료를 직접 생성하지 않고, 미리 확보해 놓은 1개의 Golden Sample의 crop된 이미지와 그 때 그 때의 작업 환경을 실제처럼 합성하여 이미지를 생성해낸 결과물입니다.  
+Image Blending / Image Harmonization에 대한 서베이와 오픈 소스 코드 검토 및 프로토타입 구현에 참여하였습니다.  
 
 ## 저는 이런 것들을 만들어 보았습니다.
 ### 1. News Title Autocompletion and Transformer-based News Summarization (https://github.com/sanspareilsmyn/news-project)  
