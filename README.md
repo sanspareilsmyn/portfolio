@@ -9,7 +9,7 @@
 특히 Vision을 담당하는 제 소파트는 제조 라인에서 작업자가 수행하는 Object Detection 및 Classification 작업을 대체하는 검사 모듈을 개발하고 있습니다.  
 
 ## 저는 이런 것들을 잘 할 수 있습니다.      
-- Python, JavaScript, Go     
+- Python, C++, Golang       
 - Hands-on Knowledge on ML/DL  
 - PyTorch (Intermediate Tensorflow)    
 - Tools for Machine Learning : Pandas, Numpy, Scikit-Learn, OpenCV  
