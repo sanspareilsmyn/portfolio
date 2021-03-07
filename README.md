@@ -1,5 +1,4 @@
-# 안녕하세요! 저는 윤상민입니다.  
-
+# Portfolio
 ## 자기 소개  
 저는 윤상민이라고 합니다. 1995년 1월 29일에 태어났고 올해 26세입니다.  
 명덕외국어고등학교 프랑스어과를 졸업했고, 서울대학교에서 불어불문학과 전기정보공학을 복수전공했습니다.  
@@ -9,13 +8,13 @@
 특히 Vision을 담당하는 제 소파트는 제조 라인에서 작업자가 수행하는 Object Detection 및 Classification 작업을 대체하는 검사 모듈을 개발하고 있습니다.  
 
 ## 저는 이런 것들을 잘 할 수 있습니다.      
-- Python, C++, Golang       
+- Python(Advanced), Scala(Intermediate), C++(Readable), Golang(Readable)       
 - Hands-on Knowledge on ML/DL  
 - PyTorch (Intermediate Tensorflow)    
 - Tools for Machine Learning : Pandas, Numpy, Scikit-Learn, OpenCV  
 - Tools for Data Visualization : Seaborn, Plotly  
 - Hands on experiences on Linux, YAML, Docker and Kubernetes
-- AWS Solutions Architect Associate  
+- Certificate : AWS Solutions Architect Associate, Certified Kubernetes Administrator    
 - 최상급 영어/프랑스어 회화 및 문서 작성 능력   
 - 논문을 통한 지식 습득 & 핵심 내용을 나의 언어로 정리하는 능력 (https://github.com/sanspareilsmyn/what-i-have-read)  
 - 컴퓨터공학 전반에 대한 지식 (https://github.com/sanspareilsmyn/tech-interview-question)  
