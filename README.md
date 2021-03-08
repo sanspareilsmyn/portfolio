@@ -13,8 +13,8 @@
 - PyTorch (Intermediate Tensorflow)    
 - Tools for Machine Learning : Pandas, Numpy, Scikit-Learn, OpenCV  
 - Tools for Data Visualization : Seaborn, Plotly  
-- Hands on experiences on Linux, YAML, Docker and Kubernetes
-- Certificate : AWS Solutions Architect Associate, Certified Kubernetes Administrator    
+- Experiences on Linux, YAML, Docker and Kubernetes while preparing for CKA
+- Certificate : AWS Solutions Architect Associate.  
 - 최상급 영어/프랑스어 회화 및 문서 작성 능력   
 - 논문을 통한 지식 습득 & 핵심 내용을 나의 언어로 정리하는 능력 (https://github.com/sanspareilsmyn/what-i-have-read)  
 - 컴퓨터공학 전반에 대한 지식 (https://github.com/sanspareilsmyn/tech-interview-question)  
