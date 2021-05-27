@@ -10,8 +10,8 @@
 ## 저는 이런 것들을 잘 할 수 있습니다.      
 - Python(Advanced), SQL(Intermediate), C++(Readable), Golang(Readable)       
 - Hands-on Knowledge on ML/DL  
-- PyTorch (Intermediate Tensorflow)    
-- Tools for Machine Learning : Pandas, Numpy, Scikit-Learn, OpenCV  
+- PyTorch (Intermediate Tensorflow), Pytorch Lightning.  
+- Tools for Machine Learning : Pandas, Numpy, Scikit-Learn, OpenCV, Ray Tune.  
 - Tools for Data Visualization : Seaborn, Plotly  
 - Experiences on Linux, YAML, Docker and Kubernetes while preparing for CKA
 - Certificate : AWS Solutions Architect Associate.  
